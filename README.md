@@ -2,7 +2,12 @@
 
 Current directory contains symlinks
 
-Run Python script add_symlinks_to_github.py for add to Github repo the files which links points to, contains in current directory.
+Run: 
+```sh
+$ python3 add_symlinks_to_github.py
+```
+
+For add to Github repo the files which links points to, contains in current directory.
 
 But before:
 ```sh
