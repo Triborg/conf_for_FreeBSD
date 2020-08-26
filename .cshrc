@@ -1,3 +1,6 @@
+# for .zshrc
+export TERM=xterm-256color
+
 alias h		history 108
 alias j		jobs -l
 alias la	ls -aF
